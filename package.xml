@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>recast_navigation</name>
+    <version>0.0.0</version>
+    <description>Recast Navigation ROS</description>
+
+    <author email="todo@to.do">To Do</author>
+
+    <maintainer email="todo@to.do">To Do</maintainer>
+
+    <license>BSD</license>
+
+    <buildtool_depend>catkin</buildtool_depend>
+</package>
